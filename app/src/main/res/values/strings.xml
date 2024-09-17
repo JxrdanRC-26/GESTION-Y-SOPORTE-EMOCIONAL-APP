@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GESTION Y SOPORTE EMOCIONAL APP</string>
+    <string name="start_button_text">Inicio</string>
+    <string name="emotional_diary_button_text">Diario Emocional</string>
+    <string name="self_help_resources_button_text">Recursos de Autoayuda</string>
+    <string name="community_support_button_text">Comunidad y Soporte</string>
+    <string name="planning_goals_button_text">Planificación y Objetivos</string>
+    <string name="diario_emocional_title">Diario Emocional</string>
+    <string name="diario_emocional_hint">Escribe aquí tus pensamientos y sentimientos...</string>
+    <string name="save_button_text">Guardar</string>
+    <string name="community_support_title">Comunidad y Soporte</string>
+    <string name="community_support_text">Aquí encontrarás información sobre cómo unirte a nuestra comunidad, foros de discusión y recursos para obtener soporte adicional.</string>
+
+    <!-- Agregar las siguientes cadenas -->
+    <string name="recursos_autoayuda_title">Recursos de Autoayuda</string>
+    <string name="resource1">Primer Recurso</string>
+    <!-- Agregar más recursos si se tienen -->
+</resources>
